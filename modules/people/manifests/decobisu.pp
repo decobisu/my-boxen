@@ -7,9 +7,9 @@ class people::decobisu {
 
 # ここに記載
 
-	# include lib
-	include java
-	include php::5_4
+  # include lib
+  include java
+  include php::5_4
   include wget
   include autoconf
   include libtool
@@ -17,9 +17,10 @@ class people::decobisu {
   include libpng
   include pkgconfig
 
-	# local application
-	include iterm2::stable
+  # local application
+  include iterm2::stable
   include skype
+  include chrome
 
   package {
     'Kobito':

@@ -61,14 +61,17 @@ github "xquartz",    "1.1.0"
 github "osx",   "1.0.0"
 
 github "java",  "1.1.0"
-github "php",		"1.1.1"
+github "php",   "1.1.1"
 
 github "wget",      "1.0.0"
 github "autoconf",  "1.0.0"
-github "libtool",   "1.0.0"  
+github "libtool",   "1.0.0"
 github "pcre",      "1.0.0"
 github "libpng",    "1.0.0"
 github "pkgconfig", "1.0.0"
 
 github "iterm2",  "1.0.4"
-github "skype",		"1.0.8"
+github "skype",   "1.0.8"
+github "chrome",  "1.1.0"
+
+

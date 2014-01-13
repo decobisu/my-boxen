@@ -9,6 +9,11 @@ GITHUBTARBALL
     boxen (3.3.4)
 
 GITHUBTARBALL
+  remote: boxen/puppet-chrome
+  specs:
+    chrome (1.1.0)
+
+GITHUBTARBALL
   remote: boxen/puppet-dnsmasq
   specs:
     dnsmasq (1.0.0)
@@ -146,6 +151,7 @@ GITHUBTARBALL
 DEPENDENCIES
   autoconf (= 1.0.0)
   boxen (= 3.3.4)
+  chrome (= 1.1.0)
   dnsmasq (= 1.0.0)
   foreman (= 1.0.0)
   gcc (= 2.0.1)
